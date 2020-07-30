@@ -90,7 +90,7 @@
       <h5 class="dropdown-header">MY WINE</h5>
       <a class="dropdown-item" href="#">공유</a>
     </div>
-    <!-- 드롭 다운 버튼 위치 설정 필요 -->
+<!-- 드롭다운 버튼 위치 설정해야 함 -->
   	
   
 	</bottom>
