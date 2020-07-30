@@ -27,10 +27,6 @@
       <label for="name">이름:</label>
       <input type="text" class="form-control" id="name" placeholder="Enter name" name="name">
     </div>
-    <div class="form-group">
-      <label for="birthdate">생년월일:</label>
-      <input type="text" class="form-control" id="birthdate" placeholder="Enter birthdate" name="birthdate">
-    </div>
       <div class="form-group">
       <label for="birthdate">생년월일:</label>
       <input type="text" class="form-control" id="birthdate" placeholder="Enter birthdate" name="birthdate">
